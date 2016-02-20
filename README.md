@@ -1,2 +1,2 @@
-# Trash-an
+# TrashCan
 Simple repo for trash
