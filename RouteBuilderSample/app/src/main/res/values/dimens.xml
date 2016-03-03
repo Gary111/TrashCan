@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="marker_car_available_stroke_width">2dp</dimen>
+    <dimen name="marker_car_available_size">16dp</dimen>
+    
+</resources>

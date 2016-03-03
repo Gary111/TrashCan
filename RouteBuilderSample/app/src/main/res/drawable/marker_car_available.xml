@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <stroke
+        android:width="@dimen/marker_car_available_stroke_width"
+        android:color="@color/marker_car_available_stroke" />
+    <solid android:color="@color/marker_car_available_solid" />
+    <size
+        android:width="@dimen/marker_car_available_size"
+        android:height="@dimen/marker_car_available_size" />
+</shape>

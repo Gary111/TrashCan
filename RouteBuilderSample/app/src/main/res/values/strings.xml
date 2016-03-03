@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Route Builder Sample</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="error_cant_find_route">Can\'t find route</string>
+
+    <string name="route_time_walking_hint">Walking travel time is %1$d min</string>
+    <string name="route_time_transit_hint">Transit travel time is %1$d min</string>
+</resources>
