@@ -1,0 +1,1 @@
+java -jar out\\artifacts\\OneTwoTripTest_jar\\OneTwoTripTest.jar
