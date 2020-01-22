@@ -3,7 +3,7 @@
   "features": [{
     "type": "Feature",
     "properties": {
-      "angle": 0,
+      "angle": 100,
       "detailed_icon_key": "casual_detailed",
       "distance": 0,
       "id": 355,
@@ -20,7 +20,7 @@
   }, {
     "type": "Feature",
     "properties": {
-      "angle": 0,
+      "angle": 150,
       "detailed_icon_key": "casual_detailed",
       "distance": 0,
       "id": 365,
@@ -37,7 +37,7 @@
   }, {
     "type": "Feature",
     "properties": {
-      "angle": 0,
+      "angle": 200,
       "detailed_icon_key": "casual_detailed",
       "distance": 0,
       "id": 368,
