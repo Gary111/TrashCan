@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "angle": 0,
+      "detailed_icon_key": "casual_detailed_https%3A%2F%2Fcloudstorage.it-grad.ru%2Fv1%2FAUTH_490a32b56ce94d71af7e3621b2034141%2FBelkaCarPublicAssets%2Fcar_types%2F1%2Fpin%2F5c110262616b55c11026261704.png",
+      "distance": 0,
+      "id": 355,
+      "plate_number": "р450уе777",
+      "model_id": 1,
+      "dotted_icon_key": "casual_dotted_https%3A%2F%2Fcloudstorage.it-grad.ru%2Fv1%2FAUTH_490a32b56ce94d71af7e3621b2034141%2FBelkaCarPublicAssets%2Fcar-types%2Fdefault-pins%2F5b8ebbd51a0585b8ebbd51a09f.png",
+      "object_type": "car",
+      "no_refill_distance": 0
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [37.494329730983999, 55.667830319122999]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "angle": 0,
+      "detailed_icon_key": "casual_detailed_https%3A%2F%2Fcloudstorage.it-grad.ru%2Fv1%2FAUTH_490a32b56ce94d71af7e3621b2034141%2FBelkaCarPublicAssets%2Fcar_types%2F1%2Fpin%2F5c110262616b55c11026261704.png",
+      "distance": 0,
+      "id": 365,
+      "plate_number": "у659ту777",
+      "model_id": 2,
+      "dotted_icon_key": "casual_dotted_https%3A%2F%2Fcloudstorage.it-grad.ru%2Fv1%2FAUTH_490a32b56ce94d71af7e3621b2034141%2FBelkaCarPublicAssets%2Fcar-types%2Fdefault-pins%2F5b8ebbb2212c65b8ebbb221306.png",
+      "object_type": "car",
+      "no_refill_distance": 0
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [37.462556050495998, 55.745972873408]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "angle": 0,
+      "detailed_icon_key": "casual_detailed_https%3A%2F%2Fcloudstorage.it-grad.ru%2Fv1%2FAUTH_490a32b56ce94d71af7e3621b2034141%2FBelkaCarPublicAssets%2Fcar_types%2F1%2Fpin%2F5c110262616b55c11026261704.png",
+      "distance": 0,
+      "id": 368,
+      "plate_number": "у603ту777",
+      "model_id": 2,
+      "dotted_icon_key": "casual_dotted_https%3A%2F%2Fcloudstorage.it-grad.ru%2Fv1%2FAUTH_490a32b56ce94d71af7e3621b2034141%2FBelkaCarPublicAssets%2Fcar-types%2Fdefault-pins%2F5b8ebbb2212c65b8ebbb221306.png",
+      "object_type": "car",
+      "no_refill_distance": 0
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [37.514753098192003, 55.762489928751002]
+    }
+  }]
+}
