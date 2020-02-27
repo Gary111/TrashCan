@@ -1,0 +1,36 @@
+{
+  "native_close_button": true,
+  "content": [
+    {
+      "type": "IMAGE",
+      "content": "https://cloudstorage.it-grad.ru/v1/AUTH_490a32b56ce94d71af7e3621b2034141/BelkaCarPublicAssets/driving_behavior_test_image_1.png",
+      "gravity": "START",
+      "width": 150,
+      "height": 150,
+      "sequence": 1
+    },
+    {
+      "type": "TEXT",
+      "content": "# Это уже чересчур\n\nВо время **последней** поездки вы водили слишком агрессивно. Это *опасно* для вас и других людей на дороге.\n\nСамые неаккуратные водители могут получить штраф или даже потерять доступ к сервису. Постарайтесь не лихачить.",
+      "gravity": "START",
+      "sequence": 2
+    }
+  ],
+  "footer": {
+    "position": "FIXED",
+    "buttons": [
+      {
+        "type": "PRIMARY",
+        "action": "SUBMIT",
+        "text": "Посмотреть нарушения",
+        "sequence": 1
+      },
+      {
+        "type": "SECONDARY",
+        "action": "CLOSE",
+        "text": "Хорошо, хорошо",
+        "sequence": 2
+      }
+    ]
+  }
+}
